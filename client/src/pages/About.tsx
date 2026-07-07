@@ -131,7 +131,7 @@ export default function About() {
               </p>
             </div>
             <div className="bg-white rounded-lg overflow-hidden">
-              <img src="/manus-storage/WhatsAppImage2026-06-11at5.48.46PM_e298fd22.jpeg" alt="Faad Capital Ecosystem" className="w-full h-auto rounded-lg shadow-lg" />
+              <img src="/__manus__/WhatsAppImage2026-06-11at5.48.46PM_e298fd22.jpeg" alt="Faad Capital Ecosystem" className="w-full h-auto rounded-lg shadow-lg" />
             </div>
           </div>
         </div>
@@ -375,7 +375,7 @@ export default function About() {
           <div className="grid md:grid-cols-4 gap-8 mb-12">
             <div>
               <div className="flex items-center gap-2 mb-4">
-                <img src="/manus-storage/fcaps-logo_67a22a67.webp" alt="FCAPS Logo" className="h-8 w-auto" />
+                <img src="/__manus__/fcaps-logo_67a22a67.webp" alt="FCAPS Logo" className="h-8 w-auto" />
               </div>
               <p className="text-sm text-gray-400">Strategic support and partnerships for startup growth.</p>
             </div>
