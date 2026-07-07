@@ -18,42 +18,42 @@ export default function About() {
       title: "CoFounder and Director",
       email: "dinesh@fcaps.in",
       linkedin: "https://www.linkedin.com/in/dr-dinesh-singh",
-      image: "/manus-storage/optimized-dinesh-singh_6f2bf442.png"
+      image: "/__manus__/storage/dinesh.jpeg"
     },
     {
       name: "Karan Verma",
       title: "CoFounder and Director",
       email: "karan@fcaps.in",
       linkedin: "https://www.linkedin.com/in/karan-verma-51b9892",
-      image: "/manus-storage/optimized-karan-verma_enhanced_445b0fdd.webp"
+      image: "/__manus__/storage/karan.jpeg"
     },
     {
       name: "Aditya Arora",
       title: "CEO & Director",
       email: "aditya.arora@faad.in",
       linkedin: "https://www.linkedin.com/in/thefaadguy",
-      image: "/manus-storage/optimized-aditya-arora_enhanced_82c3bc8d.webp"
+      image: "/__manus__/storage/aditya.jpeg"
     },
     {
       name: "Shivani Khare",
       title: "AVP Portfolio Management",
       email: "shivani.khare@faad.in",
       linkedin: "https://www.linkedin.com/in/shivani-khare-sk169",
-      image: "/manus-storage/optimized-shivani-khare_enhanced_b521bd52.webp"
+      image: "/__manus__/storage/shivani.jpeg"
     },
     {
       name: "Shiksha Mishra",
       title: "Investment Professional",
       email: "shiksha@fcaps.in",
       linkedin: "https://www.linkedin.com/in/shiksha-mishra-6a1098228",
-      image: "/manus-storage/optimized-shiksha-mishra-correct_79c0c8b5.png"
+      image: "/__manus__/storage/shiksha.jpeg"
     },
     {
       name: "Nishtha Gandhi",
       title: "Investment Associate",
       email: "nishtha@fcaps.in",
       linkedin: "https://www.linkedin.com/in/nishtha-g-a48439205",
-      image: "/manus-storage/optimized-nishtha-gandhi-correct_62183228.png"
+      image: "/__manus__/storage/nishtha.jpeg"
     }
   ];
 
@@ -131,7 +131,7 @@ export default function About() {
               </p>
             </div>
             <div className="bg-white rounded-lg overflow-hidden">
-              <img src="/__manus__/WhatsAppImage2026-06-11at5.48.46PM_e298fd22.jpeg" alt="Faad Capital Ecosystem" className="w-full h-auto rounded-lg shadow-lg" />
+              <img src="/__manus__/storage/hero.jpeg" alt="Faad Capital Ecosystem" className="w-full h-auto rounded-lg shadow-lg" />
             </div>
           </div>
         </div>
