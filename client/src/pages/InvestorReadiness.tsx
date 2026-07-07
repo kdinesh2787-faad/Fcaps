@@ -349,7 +349,7 @@ export default function InvestorReadiness() {
           <div className="grid md:grid-cols-4 gap-8 mb-12">
             <div>
               <div className="flex items-center gap-2 mb-4">
-                <img src="/__manus__/fcaps-logo_67a22a67.webp" alt="FCAPS Logo" className="h-8 w-auto" />
+                <img src="/__manus__/storage/logo.png" alt="FCAPS Logo" className="h-8 w-auto" />
               </div>
               <p className="text-sm text-gray-400">Strategic support and partnerships for startup growth.</p>
             </div>
