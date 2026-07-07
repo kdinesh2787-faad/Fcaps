@@ -28,7 +28,7 @@ export default function Navigation() {
       <div className="container flex items-center justify-between py-4">
         {/* Logo */}
         <a href="/" className="flex items-center gap-2 hover:opacity-80 transition-opacity">
-          <img src="src="/__manus__/storage/logo.png" alt="FCAPS Logo" className="h-10 w-auto" />
+         <img src="/__manus__/storage/logo.png" alt="FCAPS Logo" className="h-10 w-auto" />
         </a>
 
         {/* Desktop Navigation */}
