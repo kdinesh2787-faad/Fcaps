@@ -58,7 +58,7 @@ export default function InquiryModal({ open, onOpenChange, serviceType }: Inquir
           "Content-Type": "application/json",
         },
         body: JSON.stringify({
-          access_key: "YOUR_WEB3FORMS_ACCESS_KEY", // Replace with your Web3Forms access key
+          access_key: "2a32ea18-7b31-492e-b804-fba00f46564b", // Replace with your Web3Forms access key
           name: formData.name,
           email: formData.email,
           phone: formData.phone,
